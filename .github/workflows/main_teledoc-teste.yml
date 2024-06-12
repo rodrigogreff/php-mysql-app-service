@@ -63,4 +63,4 @@ jobs:
           app-name: 'teledoc-teste'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EEE829A4CF51446DA9CCF7433E593DEA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_343A0F61AD4C4E5995B6A0E6B4F7BC07 }}
